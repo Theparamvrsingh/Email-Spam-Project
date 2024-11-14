@@ -1,0 +1,1 @@
+uploaded_image = st.file_uploader("Upload a background image (optional)", type=["jpg", "jpeg", "png"])
